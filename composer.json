@@ -18,7 +18,7 @@
     },
     "require": {
         "mihaildev/yii2-elfinder": "*",
-        "creocoder/yii2-flysystem": "^0.8.1",
+        "creocoder/yii2-flysystem": "^0.9.3",
         "barryvdh/elfinder-flysystem-driver": "^0.2.0"
     },
     "extra": {
